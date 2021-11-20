@@ -1,0 +1,11 @@
+Model Information:
+* title:	Ultimax 100
+* source:	https://sketchfab.com/3d-models/ultimax-100-a0c58606b1fd434a8db6983cf30c5375
+* author:	Long Nguyễn (https://sketchfab.com/LongNguyen89)
+
+Model License:
+* license type:	CC-BY-4.0 (http://creativecommons.org/licenses/by/4.0/)
+* requirements:	Author must be credited. Commercial use is allowed.
+
+If you use this 3D model in your project be sure to copy paste this credit wherever you share it:
+This work is based on "Ultimax 100" (https://sketchfab.com/3d-models/ultimax-100-a0c58606b1fd434a8db6983cf30c5375) by Long Nguyễn (https://sketchfab.com/LongNguyen89) licensed under CC-BY-4.0 (http://creativecommons.org/licenses/by/4.0/)
